@@ -1,2 +1,2 @@
-# jsdn
+# JSDN
 JSDN repository
