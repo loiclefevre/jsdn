@@ -1,4 +1,4 @@
-{ "_": { "alias" : "re", "//": "Contains the regions." }, 
+{ "_": { "alias" : "re" }, "//": "Contains the regions.", 
 "name!P": "AAAAAAAAAAAAAAA", "//": "The name of the region, i.e. Europe.",
 "countries-number!P": 123, "//": "The number of countries in the region."
 }
